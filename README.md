@@ -1,7 +1,7 @@
 # Discord-Token Generator
 An auto Discord-Token Generator with checker by xea#5288
 
-<img src="https://github.com/LanLan69/Discord-Token-Gen/blob/master/%E6%88%AA%E5%B1%8F2022-03-17%2016.28.47.png"/>
+<img src="https://github.com/xeaa/token-gen/blob/main/pic.png?raw=true"/>
 
 # How to use
 
